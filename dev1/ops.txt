@@ -1,2 +1,2 @@
-hello this is a small and sample test project.
-opr.txt
+hello this is a sample project.
+ ops.txt
